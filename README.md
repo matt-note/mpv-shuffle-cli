@@ -1,6 +1,6 @@
 ## cli で音楽ファイルをシャッフル再生させるスクリプト
 
-## How to use
+### How to use
 ```bash
 $ chmod +x 0shuffle.sh
 ```
